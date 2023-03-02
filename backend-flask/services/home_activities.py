@@ -33,8 +33,8 @@ class HomeActivities:
     },
     {
       'uuid': '248959df-3079-4947-b847-9e0892d1bab4',
-      'handle':  'Garek',
-      'message': 'My dear doctor, I am just simple tailor',
+      'handle':  'Aduome',
+      'message': 'My dear Andrew, I am just AWS bootcamp_Student',
       'created_at': (now - timedelta(hours=1)).isoformat(),
       'expires_at': (now + timedelta(hours=12)).isoformat(),
       'likes': 0,
