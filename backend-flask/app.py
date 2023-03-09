@@ -34,7 +34,7 @@ tracer = trace.get_tracer(__name__)
 # Initialize automatic instrumentation with Flask
 app = Flask(__name__)
 FlaskInstrumentor().instrument_app(app)
-RequestsInstrumento().instrument()
+RequestsInstrumentor().instrument()
 
 frontend = os.getenv('FRONTEND_URL')
 backend = os.getenv('BACKEND_URL')
