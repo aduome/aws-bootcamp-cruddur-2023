@@ -35,7 +35,9 @@ class HomeActivities:
       'message': 'I am out of prune juice',
       'created_at': (now - timedelta(days=7)).isoformat(),
       'expires_at': (now + timedelta(days=9)).isoformat(),
-      'likes': 0,
+      'likes_count': 0,
+      'replies_count': 0,
+      'reposts_count': 0,
       'replies': []
     },
     {
@@ -44,9 +46,10 @@ class HomeActivities:
       'message': 'My dear Andrew, I am just AWS bootcamp_Student',
       'created_at': (now - timedelta(hours=1)).isoformat(),
       'expires_at': (now + timedelta(hours=12)).isoformat(),
-      'likes': 0,
+      'likes_count': 0,
+      'replies_count': 0,
+      'reposts_count': 0,
       'replies': []
-    }
-    ]
-    span.set_attribute("app.result_length", len(result))
+    }]
+    span.set_attribute("app.result_length", len(results))
     return results
