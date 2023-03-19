@@ -30,6 +30,8 @@
 
 ### XRAY Traces working successfully with OK status
 ![AWS XRAY Traces](https://github.com/aduome/aws-bootcamp-cruddur-2023/blob/main/journal/assets/week%202/10_AWS%20XRAY%20TRACES%20working%20successfully.PNG)
+
+### XRAY Traces
 ![AWS XRAY Traces Map](https://github.com/aduome/aws-bootcamp-cruddur-2023/blob/main/journal/assets/week%202/11_XRAY%20WORKING%20SUCCESSFULLY.PNG)
 
 ### AWS Cloudwatch log groups is sending data
@@ -37,6 +39,8 @@
 
 ### AWS Cloudwatch loggings
 ![AWS CloudWatch Group](https://github.com/aduome/aws-bootcamp-cruddur-2023/blob/main/journal/assets/week%202/13_Cloudwatch%20loggings.PNG)
+
+### AWS Cloudwatch loggings 
 ![AWS CloudWatch Group](https://github.com/aduome/aws-bootcamp-cruddur-2023/blob/main/journal/assets/week%202/14_Cloudwatch%20loggings%202.PNG)
 
 ### Rollbar created and listening to application
@@ -47,6 +51,8 @@
 
 ### Rollbar is working successfully_Hello World logged
 ![ROLLBAR logged Hello World](https://github.com/aduome/aws-bootcamp-cruddur-2023/blob/main/journal/assets/week%202/17_Rollbar%20is%20working%20successfully_Hello%20World%20logged.PNG)
+
+### Rollbar is working successfully_Hello World logged
 ![ROLLBAR logs](https://github.com/aduome/aws-bootcamp-cruddur-2023/blob/main/journal/assets/week%202/18_Rollbar%20logging%20working%20successfully.PNG)
 
-### All Assignment finished succefully for week 2
+### All Assignment finished successfully for week 2
